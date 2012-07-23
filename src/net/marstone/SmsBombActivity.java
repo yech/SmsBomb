@@ -166,6 +166,7 @@ public class SmsBombActivity extends Activity {
                 Toast.LENGTH_SHORT).show();
     }
     
+    
     private String currentTime()
     {
         long nowMillis = System.currentTimeMillis();
