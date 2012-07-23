@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, SmsBombActivity!</string>
+    <string name="app_name">SmsBomb</string>
+    <string name="recipient">Recipient:</string>
+    <string name="message">Message:</string>
+    <string name="interval">Interval:</string>
+    <string name="last">Last:</string>
+    <string name="button_start">Start</string>
+    <string name="button_stop">Stop</string>
+    <string name="button_send">Send</string>
+    <string name="button_test">Test</string>
+        
+</resources>
